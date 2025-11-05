@@ -1,0 +1,77 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer / wheel
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# TensorFlow / Keras artifacts
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+saved_model/
+
+# Data files / datasets (large files)
+data/
+datasets/
+*.npy
+*.npz
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+profile_default/
+.ipython/
+
+# Logs and reports
+*.log
+logs/
+coverage.xml
+htmlcov/
+.coverage
+
+# Testing
+.pytest_cache/
+
+# Docker / environment
+docker-compose.override.yml
+*.env
+
+# Keys, certificates, secrets
+*.pem
+*.key
+secrets.json
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
