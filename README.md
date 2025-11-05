@@ -1,4 +1,9 @@
-# Please set up your Python environment and install all required packages before the course begins. During the course sessions, there will not be time allocated for local environment setup or package installation. Preparing your environment in advance ensures you can follow along and participate fully.
+#### Please set up your Python environment and install all required packages before the course begins. During the course sessions, there will not be time allocated for local environment setup or package installation. Preparing your environment in advance ensures you can follow along and participate fully.
+
+### Schedule for HPCGateway Fall School: https://notes.desy.de/qoMPic6oQ36VhxvivBVFCg?both#Time-Schedule
+### Schedule for HIDA: https://notes.desy.de/YhM3gdx-QqKJO0hAR9SyvQ?both
+
+
 
 # Deep Learning Project Setup and Usage Guide
 
